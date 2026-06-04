@@ -35,14 +35,12 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: 'My Research'
+      title: 'Research'
       subtitle: ''
       text: |-
-             My research interests include multimodal learning specifically vision-language models, conversational AI. I am particularly interested in compositional reasoning in multimodal systems and in developing models that generalize beyond narrowly defined training settings.
-             
-             During my PhD, I worked on generalized visual-language grounding, multimodal dialogue understanding, and embodied conversational agents, with recent work focusing on compositional reasoning and multimodal grounding under complex language contexts.
-             
-             Feel free to reach out if you would like to discuss multimodal learning, conversational AI, vision-language grounding, or related research topics.
+            My research focuses on vision-language modeling, particularly visual grounding under complex linguistic contexts. I am interested in improving both the foundational capabilities of vision-language models and their applications in multimodal conversational systems and instruction-following embodied agents. More recently, I have been investigating the role of compositional understanding in building more generalized vision-language models, including Multimodal Large Language Models (MLLMs).
+
+            Broadly, I am interested in building more robust and generalizable vision-language models by advancing different stages of the full research pipeline, including data, model architectures, training strategies, and evaluation methodologies.
     design:
       columns: '2'
   # - block: collection
